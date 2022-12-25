@@ -1,0 +1,44 @@
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.pdb
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.dll
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\BUS.pdb
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.dll
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.dll
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\DAL.pdb
+D:\Project\QUANLYCAFE_PBL3\BUS\bin\Debug\DTO.pdb
+D:\Project\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Project\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Project\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.dll
+D:\Project\QUANLYCAFE_PBL3\BUS\obj\Debug\BUS.pdb

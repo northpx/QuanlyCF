@@ -1,0 +1,140 @@
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe.config
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.exe
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmMain.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThongTinTKCN.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong_ThongTin.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmSoLuong.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLichSuHD.resources
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDoanhThu.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.dll
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.pdb
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBanHang.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDoanhThu.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLichSuHD.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmSoLuong.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThongTinTKCN.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong_ThongTin.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS-PRO\Desktop\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe.config
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.dll
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.pdb
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDoanhThu.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLichSuHD.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmMain.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmSoLuong.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThongTinTKCN.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong_ThongTin.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.exe
+D:\Code\ĐỒ Án\TranHien\TranHien\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.pdb
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe.config
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.exe
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\GUI.pdb
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.dll
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.dll
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.dll
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\BUS.pdb
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\DAL.pdb
+D:\Project\QUANLYCAFE_PBL3\GUI\bin\Debug\DTO.pdb
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmBan_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmDoanhThu.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmKhuVuc_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLichSuHD.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmLoaiThucUong_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmMain.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmNhanVien_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmSoLuong.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmTaiKhoan_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThongTinTKCN.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.frmThucUong_ThongTin.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.exe
+D:\Project\QUANLYCAFE_PBL3\GUI\obj\Debug\GUI.pdb

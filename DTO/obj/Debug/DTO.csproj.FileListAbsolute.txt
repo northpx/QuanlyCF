@@ -1,0 +1,12 @@
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\bin\Debug\DTO.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\bin\Debug\DTO.pdb
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.dll
+D:\Project\Research\Document\CodeThue\TranHien\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.pdb
+D:\Project\QUANLYCAFE_PBL3\DTO\bin\Debug\DTO.dll
+D:\Project\QUANLYCAFE_PBL3\DTO\bin\Debug\DTO.pdb
+D:\Project\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Project\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.dll
+D:\Project\QUANLYCAFE_PBL3\DTO\obj\Debug\DTO.pdb
